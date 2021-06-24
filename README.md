@@ -1,5 +1,5 @@
 # Crick-UCLH-Legacy-VOCs-2021-05
-Data and analysis scripts for Wall, Wu _et al._, Lancet, 2021.
+Data and analysis scripts for Wall, Wu _et al._, _Lancet_, 2021.
 
 "Neutralising antibody activity against SARS-CoV-2 VOCs B.1.617.2 and B.1.351 by BNT162b2 vaccination"
 
