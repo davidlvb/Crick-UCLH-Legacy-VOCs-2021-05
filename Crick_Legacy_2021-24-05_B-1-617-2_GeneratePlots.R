@@ -16,7 +16,7 @@ rm(list = ls())
 dev.off()
 
 ### Load Legacy Study Data table ###
-load("Crick_Legacy_2021-24-05_B-1-617-2_PRIVATE.Rda")
+load("Crick_Legacy_2021-24-05_B-1-617-2_PUBLIC.Rda")
 
 ### Load required packages ### 
 # library(plotly)
