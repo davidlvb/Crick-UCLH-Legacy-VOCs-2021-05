@@ -1,4 +1,7 @@
 # Crick-UCLH-Legacy-VOCs-2021-05
+
+**Data from AstraZeneca and Pfizer available here: https://github.com/davidlvb/Crick-UCLH-Legacy-AZ-VOCs-2021-06**
+
 Data and analysis scripts for Wall, Wu _et al._, _Lancet_, 2021.
 
 "Neutralising antibody activity against SARS-CoV-2 VOCs B.1.617.2 and B.1.351 by BNT162b2 vaccination"
